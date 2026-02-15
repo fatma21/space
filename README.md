@@ -1,16 +1,11 @@
+
+
+https://github.com/user-attachments/assets/84b6cbd4-ae1d-45de-9b64-279dfe8cbdbf
+
 # assignment_3
 
-A new Flutter project.
+Galaxy Explorer is an interactive Flutter application that allows users to explore our galaxy through a smooth scrolling experience. The app presents detailed information about each planet while displaying stunning 3D models for a more immersive learning journey.
 
-## Getting Started
+Users can scroll through all the planets in our galaxy and discover key scientific facts including distance from the Sun, orbital period, gravity, radius, mass, and surface area. Each planet includes an interactive 3D visualization that enhances understanding and engagement.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
