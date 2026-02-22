@@ -1,4 +1,4 @@
-import 'package:assignment_3/constrains/home_screens/screen_3.dart';
+import 'package:assignment_3/core/home_screens/details_screen.dart';
 import 'package:flutter/material.dart';
 
 import '../app_colors.dart';

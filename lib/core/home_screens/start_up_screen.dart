@@ -1,10 +1,10 @@
-import 'package:assignment_3/constrains/home_screens/screen_3.dart';
-import 'package:assignment_3/constrains/home_screens/screen_two.dart';
+import 'package:assignment_3/core/home_screens/details_screen.dart';
+import 'package:assignment_3/core/home_screens/home_screen.dart';
 import 'package:flutter/material.dart';
 import '../app_colors.dart';
 
-class HomeScreen extends StatelessWidget{
-  static String screenName = "HomeScreen";
+class StartUpScreen extends StatelessWidget{
+  static String screenName = "StartUpScreen";
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -37,7 +37,7 @@ class HomeScreen extends StatelessWidget{
                         ),
                       ),
                       onPressed: () {
-                        Navigator.of(context).pushReplacementNamed(ScreenTwo.screenName2);
+                        Navigator.of(context).pushReplacementNamed(HomeScreen.screenName2);
                       },
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
