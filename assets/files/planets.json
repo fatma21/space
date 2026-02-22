@@ -1,0 +1,14 @@
+{
+  "Planet Name": "Sun",
+  "PNG Image": "sun.png",
+  "3D Model": "sun.glb",
+  "Title": "The Sun: Our Solar System's Star",
+  "About": "The Sun is the heart of our solar system...",
+  "Distance from Sun (km)": "0",
+  "Length of Day (hours)": "0",
+  "Orbital Period (Earth years)": "0",
+  "Radius (km)": "695,700",
+  "Mass (kg)": "1.989 × 10³⁰",
+  "Gravity (m/s²)": "274",
+  "Surface Area (km²)": "6.09 × 10¹²"
+}
